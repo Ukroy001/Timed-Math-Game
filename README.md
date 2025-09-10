@@ -28,7 +28,7 @@ The program generates random arithmetic problems (+, -, ×) and challenges the u
    python main.py
 
 ##🕹️ Gameplay
-Press Enter to start the quiz.
+```Press Enter to start the quiz.
 Solve 10 random problems.
 If your answer is incorrect, you’ll need to retry until it’s correct.
 At the end, the program will display:
