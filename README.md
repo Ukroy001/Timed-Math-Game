@@ -27,7 +27,7 @@ The program generates random arithmetic problems (+, -, ×) and challenges the u
    ```bash
    python main.py
 
-##🕹️ Gameplay
+## 🕹️ Gameplay
 ```Press Enter to start the quiz.
 Solve 10 random problems.
 If your answer is incorrect, you’ll need to retry until it’s correct.
@@ -36,6 +36,6 @@ At the end, the program will display:
   -The total time taken to complete the quiz
 ---
 ```
-##🛠️ Requirements
+## 🛠️ Requirements
 ```
   Python 3.x
